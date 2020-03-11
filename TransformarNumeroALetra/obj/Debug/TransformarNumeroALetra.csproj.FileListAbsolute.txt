@@ -1,0 +1,9 @@
+C:\Users\Jerson\source\repos\MegaCurso\TransformarNumeroALetra\TransformarNumeroALetra\obj\Debug\TransformarNumeroALetra.csprojAssemblyReference.cache
+C:\Users\Jerson\source\repos\MegaCurso\TransformarNumeroALetra\TransformarNumeroALetra\obj\Debug\TransformarNumeroALetra.Form1.resources
+C:\Users\Jerson\source\repos\MegaCurso\TransformarNumeroALetra\TransformarNumeroALetra\obj\Debug\TransformarNumeroALetra.Properties.Resources.resources
+C:\Users\Jerson\source\repos\MegaCurso\TransformarNumeroALetra\TransformarNumeroALetra\obj\Debug\TransformarNumeroALetra.csproj.GenerateResource.cache
+C:\Users\Jerson\source\repos\MegaCurso\TransformarNumeroALetra\TransformarNumeroALetra\bin\Debug\TransformarNumeroALetra.exe.config
+C:\Users\Jerson\source\repos\MegaCurso\TransformarNumeroALetra\TransformarNumeroALetra\bin\Debug\TransformarNumeroALetra.exe
+C:\Users\Jerson\source\repos\MegaCurso\TransformarNumeroALetra\TransformarNumeroALetra\bin\Debug\TransformarNumeroALetra.pdb
+C:\Users\Jerson\source\repos\MegaCurso\TransformarNumeroALetra\TransformarNumeroALetra\obj\Debug\TransformarNumeroALetra.exe
+C:\Users\Jerson\source\repos\MegaCurso\TransformarNumeroALetra\TransformarNumeroALetra\obj\Debug\TransformarNumeroALetra.pdb
